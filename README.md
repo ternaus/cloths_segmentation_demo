@@ -2,7 +2,7 @@
 
 The code for the network: https://github.com/ternaus/cloths_segmentation
 
-Web app: https://clothssegmentation.herokuapp.com/
+Web app: [https://clothssegmentation.herokuapp.com/](https://clothssegmentation.herokuapp.com/)
 
 
 ## Run locally
